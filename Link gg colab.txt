@@ -1,0 +1,15 @@
+Link crawl data:
+- Dùng http request:
+https://colab.research.google.com/drive/1bKcyM_KU6qq4b1PgvzsRCEB-jOsES36c?usp=sharing
+- Dùng http selenium:
+https://colab.research.google.com/drive/1Rl8OybCn1xuK59LHwmxCsq2G6T7HJgZ6?usp=sharing
+
+Link làm sạch dữ liệu:
+https://colab.research.google.com/drive/1zuGiX5sRcM5GoJbBqD7Skip0iYqo83J8?usp=sharing
+
+Link train model:
+- Xgb + Lr:
+https://colab.research.google.com/drive/1oLUHE6DLGc3P9WrPeYmnkSufkoc-Mefq?usp=sharing
+- Xgb + Rf:
+- Lr + Rf:
+- Lr + Rf + Xgb:
