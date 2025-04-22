@@ -11,5 +11,7 @@ Link train model:
 - Xgb + Lr:
 https://colab.research.google.com/drive/1oLUHE6DLGc3P9WrPeYmnkSufkoc-Mefq?usp=sharing
 - Xgb + Rf:
+https://colab.research.google.com/drive/1DGjFQGN3EJMRPR-H7BYPWv0M9KMBjG6j?usp=sharing
 - Lr + Rf:
+https://colab.research.google.com/drive/1gMgUms_LtcGuU6b154K66ZcM6r1Z8qa0?usp=sharing
 - Lr + Rf + Xgb:
