@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/1zuGiX5sRcM5GoJbBqD7Skip0iYqo83J8?usp=sh
 
 Link train model:
 - Xgb + Lr:
-https://colab.research.google.com/drive/1oLUHE6DLGc3P9WrPeYmnkSufkoc-Mefq?usp=sharing
+https://colab.research.google.com/drive/1U34fjHFRLX_NVWQ4w9ad7j6V2xPEu1a2?usp=sharing
 - Xgb + Rf:
 https://colab.research.google.com/drive/1DGjFQGN3EJMRPR-H7BYPWv0M9KMBjG6j?usp=sharing
 - Lr + Rf:
