@@ -7,6 +7,9 @@ https://colab.research.google.com/drive/1Rl8OybCn1xuK59LHwmxCsq2G6T7HJgZ6?usp=sh
 Link làm sạch dữ liệu:
 https://colab.research.google.com/drive/1zuGiX5sRcM5GoJbBqD7Skip0iYqo83J8?usp=sharing
 
+Link data mining:
+https://colab.research.google.com/drive/1G-j-59lD4PPOlRC0_cxRqngMtu1EiL39?usp=sharing
+
 Link train model:
 - Xgb + Lr:
 https://colab.research.google.com/drive/1U34fjHFRLX_NVWQ4w9ad7j6V2xPEu1a2?usp=sharing
