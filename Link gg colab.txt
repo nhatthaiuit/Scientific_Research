@@ -18,4 +18,4 @@ https://colab.research.google.com/drive/1y-pHJUWYeeEzrvd09DqedegC7xxSHf_m?usp=sh
 - Lr + Rf:
 https://colab.research.google.com/drive/1ZTZslffoYLG8t9z6xtRRhr_h_F-F0K-i?usp=sharing
 - Lr + Rf + Xgb:
-https://colab.research.google.com/drive/1iQ5bj9RU4nUpr1wiBkrdyG_FKzmIiwom?usp=sharing
+https://colab.research.google.com/drive/1Fx0BSoqzK8NbiGEEZiQF31HrzEqxCswX?usp=sharing
