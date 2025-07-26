@@ -4,7 +4,7 @@ https://colab.research.google.com/drive/1bKcyM_KU6qq4b1PgvzsRCEB-jOsES36c?usp=sh
 - Dùng http selenium:
 https://colab.research.google.com/drive/1Rl8OybCn1xuK59LHwmxCsq2G6T7HJgZ6?usp=sharing
 
-Link làm sạch dữ liệu:
+Link clean data:
 https://colab.research.google.com/drive/1zuGiX5sRcM5GoJbBqD7Skip0iYqo83J8?usp=sharing
 
 Link data mining:
